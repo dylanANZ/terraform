@@ -66,7 +66,7 @@ require (
 	github.com/hashicorp/go-sockaddr v0.0.0-20180320115054-6d291a969b86 // indirect
 	github.com/hashicorp/go-tfe v0.8.1
 	github.com/hashicorp/go-uuid v1.0.1
-	github.com/hashicorp/go-version v1.2.0
+	github.com/hashicorp/go-version v1.5.0
 	github.com/hashicorp/hcl v0.0.0-20170504190234-a4b07c25de5f
 	github.com/hashicorp/hcl/v2 v2.3.0
 	github.com/hashicorp/hil v0.0.0-20190212112733-ab17b08d6590
@@ -95,6 +95,7 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mitchellh/go-linereader v0.0.0-20190213213312-1b945b3263eb
 	github.com/mitchellh/go-wordwrap v1.0.0
+	github.com/mitchellh/gox v1.0.1 // indirect
 	github.com/mitchellh/hashstructure v1.0.0
 	github.com/mitchellh/mapstructure v1.1.2
 	github.com/mitchellh/panicwrap v1.0.0
